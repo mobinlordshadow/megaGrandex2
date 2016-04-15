@@ -256,25 +256,22 @@ function create_config( )
     "webshot",
     "welcome"
     },
-    sudo_users = {122774063},--Sudo users
+    sudo_users = {219339258},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V3
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
-    @Mr_Ah_S
+    @redteam_01_32
     
     Special Thanks To:
-    Mehr Pouya
-    Arman
-    IM/-\N
-    Creed Is Dead
+    pouria redteam
     
-    Powered By @Sbss_Team
+    Powered By @mega_grandex
     
     #Open Source
-    https://github.com/SbssTeam/Sbss
+    https://github.com/mobinlordshadow/megagrandex2
 ]],
     help_text_realm = [[
 See Patterns In Github
